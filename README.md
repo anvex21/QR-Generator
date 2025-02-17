@@ -16,5 +16,5 @@ A simple Node.js app that generates a QR code from a user-provided URL and saves
    npm install
 
 4. **Run the script**
-```sh
-node index.js
+   ```sh
+   node index.js
