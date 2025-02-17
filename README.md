@@ -8,7 +8,13 @@ A simple Node.js app that generates a QR code from a user-provided URL and saves
    ```sh
    git clone https://github.com/anvex21/QR-Generator.git
 
-2. cd QR-Generator
-3. npm install
+2. **cd QR-Generator**
+   ```sh
+   cd QR-Generator
+3. **Install dependencies**
+    ```sh
+   npm install
 
-Run the script: node index.js
+4. **Run the script**
+```sh
+node index.js
