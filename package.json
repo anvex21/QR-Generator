@@ -1,0 +1,15 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "A QR-Generator for a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alkin Vezhdi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.4.2",
+    "qr-image": "^3.2.0"
+  }
+}
